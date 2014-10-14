@@ -1,0 +1,20 @@
+all:
+  is_secure: on
+
+index:
+  credentials: [tiposolicitud_view]
+
+new:
+  credentials: [tiposolicitud_view, tiposolicitud_insert]
+
+create:
+  credentials: [tiposolicitud_view, tiposolicitud_insert]
+
+edit:
+  credentials: [tiposolicitud_view, tiposolicitud_update]
+
+delete:
+  credentials: [tiposolicitud_view, tiposolicitud_delete]
+
+deleteAll:
+  credentials: [tiposolicitud_view, tiposolicitud_delete]

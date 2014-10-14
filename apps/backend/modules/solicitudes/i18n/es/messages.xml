@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en_US" datatype="plaintext">
+    <body>
+      <trans-unit id="1">
+         <source>solicitudes</source>
+         <target>solicitudes</target>
+      </trans-unit>
+      <trans-unit id="2">
+         <source>Add new solicitudes</source>
+         <target>Agregar solicitudes</target>
+      </trans-unit>
+      <trans-unit id="3">
+         <source>Edit solicitudes</source>
+         <target>Editar solicitudes</target>
+      </trans-unit>
+      <trans-unit id="4">
+         <source>List solicitudes</source>
+         <target>Listar solicitudes</target>
+      </trans-unit>
+    <!-- Falta traducir -->  
+     <trans-unit id="5">
+         <source>Nome solicitud</source>
+         <target>Nome solicitud</target>
+     </trans-unit>
+         <trans-unit id="6">
+         <source>Descricao</source>
+         <target>Descricao</target>
+     </trans-unit>
+         <trans-unit id="7">
+         <source>Permalink</source>
+         <target>Permalink</target>
+     </trans-unit>
+         <trans-unit id="8">
+         <source>Status</source>
+         <target>Status</target>
+     </trans-unit>
+         <trans-unit id="9">
+         <source>Tipo form</source>
+         <target>Tipo form</target>
+     </trans-unit>
+        </body>
+  </file>
+</xliff>
+

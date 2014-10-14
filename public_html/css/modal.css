@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+#sfWebDebug{
+    display: none;
+}
+
+/*STYLES BACKEND*/
+body{margin:0px;padding:5px  30px 30px 30px;font-family: "proxima-nova","Helvetica","Helvetica Neue",Arial,sans-serif;font-size: 12px;color: #333333; background-color: #f6f8f8;}
+a:link,a:active,a:visited{color: #333333;text-decoration: none;}
+a.white:link,a.white:active,a.white:visited, a.white:hover{color: #fff;text-decoration: none;}
+a.button:link,a.button:active,a.button:visited, a:hover{color: #333333;text-decoration: none;}
+a.titulo:link,a.titulo:active,a.titulo:visited {color: #21759a;font-weight: bold;text-decoration: none;font-size: 11px;}
+a.titulo-notificacion:link,a.titulo-notificacion:active,a.titulo-notificacion:visited {color: #4FA0C9;font-weight: bold;text-decoration: none;font-size: 14px;}
+a.edit:link,a.edit:active,a.edit:visited {color: #59a504;font-size: 11px;text-decoration: none;}
+a.delete:link,a.delete:active,a.delete:visited {color: red;font-size: 11px;text-decoration: none;}
+a.deleteAll:link,a.a.deleteAll:active,a.a.deleteAll:visited {color: #333;font-size: 12px;text-decoration: none;}
+a.view:link,a.view:active,a.view:visited {font-size: 11px;text-decoration: none;}
+a:hover,a.blanco:hover,a.titulo:hover {color: #d54e21;}
+i{color: #919191;font-size: 12px;text-align: right;}
+
+h1{
+    color: #68aed0;
+    font-size: 14px !important;
+    text-transform: uppercase;
+}
+
+h2{
+    color: #68aed0;
+    font-size: 22px !important;
+    text-transform: uppercase;
+}
+
+#table-lista-modal {width: 100%;border: 1px solid #DDD;}
+#table-lista-modal caption{text-align: center; padding: 0px 0px 5px;}
+#table-lista-modal thead tr th {
+    border-bottom: 1px #DDD solid;
+    height: 25px;
+    padding-left: 0px;
+    background-color: #68aed0;
+    font-weight: bold;
+    text-align: left;
+    color: #FFF;
+    font-size: 13px;
+    padding: 6px 4px 10px 6px ;
+    text-align: center;
+}
+#table-lista-modal thead tr th a{color: #15428b;}
+#table-lista-modal td {padding: 6px 0px 10px 6px  ;font-size: 12px; border-left: 1px solid #DDD;}
+.border-bottom{border-bottom: #ddd solid 1px;text-align: left;}
+.center{text-align: center;}
+
+
+

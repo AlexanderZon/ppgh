@@ -1,0 +1,26 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/11-App
+
+# default values
+all:
+  nameCompany:            DEPARTAMENTO DE GEOGRAFIA - UNIVERSIDADE DE SÃO PAULO
+  nome_base_app:          DEPARTAMENTO DE GEOGRAFIA - UNIVERSIDADE DE SÃO PAULO
+  
+  
+  email:
+    administrator:        coordpgh@usp.br
+    contato:              coordpgh@usp.br
+    
+  location:
+    directory_album:     '%sf_upload_dir%/albuns/'
+    dir_web_album:       '/uploads/albuns/'
+  
+  msn:
+    save_err:             Por favor, preencha os campos obrigatórios corretamente
+    save_confir:     	    Dados enviados com sucesso
+    save_confir_empresa:  Sua empresa foi registrada em nosso sistema com sucesso
+    no_resultados_op1:    Certifique-se de que todas as palavras estão escritas corretamente
+    no_resultados_op2:    Tente palavras-chave diferentes
+    no_resultados_op3:    Tente palavras-chave mais gerais    
+    
+  base_dir_web:           /

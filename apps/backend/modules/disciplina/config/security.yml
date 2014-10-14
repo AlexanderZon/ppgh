@@ -1,0 +1,20 @@
+all:
+  is_secure: on
+
+index:
+  credentials: [disciplina_view]
+
+new:
+  credentials: [disciplina_view, disciplina_insert]
+
+create:
+  credentials: [disciplina_view, disciplina_insert]
+
+edit:
+  credentials: [disciplina_view, disciplina_update]
+
+delete:
+  credentials: [disciplina_view, disciplina_delete]
+
+deleteAll:
+  credentials: [disciplina_view, disciplina_delete]

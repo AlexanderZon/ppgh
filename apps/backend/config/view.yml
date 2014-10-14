@@ -1,0 +1,35 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/13-View
+
+default:
+  http_metas:
+    content-type: text/html; charset=utf-8
+
+  metas:
+    title:        <?php echo sfConfig::get('app_name_app'); ?>
+    
+  stylesheets:    
+    - main.css
+    - jq/jqueryslidemenu.css
+    - validationEngineBackend.jquery.css
+    - /js/extjs/resources/css/ext-all.css
+    - cupertino/jquery-ui-1.8.1.custom.css
+
+
+  javascripts:    
+    - main
+    - jq/jq.ajaxupload.js
+    - jq/jqueryslidemenu.js
+    - lynxCms.js
+    - /js/extjs/adapter/ext/ext-base
+    - /js/extjs/ext-all
+    - jq/jquery-ui-1.8.1.custom.min.js
+    - jq/jq.ajaxupload.js
+    - jq/jquery.ui.widget.js
+    - jq/jquery.ui.mouse.js
+    - jq/jquery.ui.sortable.js
+    - jq/jquery.validationEngine.js
+    - jq/jquery.validationEngine-en_US.js
+
+  has_layout:     true
+  layout:         layout

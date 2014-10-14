@@ -1,0 +1,20 @@
+all:
+  is_secure: on
+
+index:
+  credentials: [banner_view]
+
+new:
+  credentials: [banner_view, banner_insert]
+
+create:
+  credentials: [banner_view, banner_insert]
+
+edit:
+  credentials: [banner_view, banner_update]
+
+delete:
+  credentials: [banner_view, banner_delete]
+
+deleteAll:
+  credentials: [banner_view, banner_delete]

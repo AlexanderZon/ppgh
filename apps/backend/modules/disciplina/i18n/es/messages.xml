@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en_US" datatype="plaintext">
+    <body>
+      <trans-unit id="1">
+         <source>disciplina</source>
+         <target>disciplina</target>
+      </trans-unit>
+      <trans-unit id="2">
+         <source>Add new disciplina</source>
+         <target>Agregar disciplina</target>
+      </trans-unit>
+      <trans-unit id="3">
+         <source>Edit disciplina</source>
+         <target>Editar disciplina</target>
+      </trans-unit>
+      <trans-unit id="4">
+         <source>List disciplina</source>
+         <target>Listar disciplina</target>
+      </trans-unit>
+    <!-- Falta traducir -->  
+     <trans-unit id="5">
+         <source>Id sem</source>
+         <target>Id sem</target>
+     </trans-unit>
+         <trans-unit id="6">
+         <source>Id materia</source>
+         <target>Id materia</target>
+     </trans-unit>
+         <trans-unit id="7">
+         <source>Codigo</source>
+         <target>Codigo</target>
+     </trans-unit>
+         <trans-unit id="8">
+         <source>Nome disciplina</source>
+         <target>Nome disciplina</target>
+     </trans-unit>
+         <trans-unit id="9">
+         <source>Profesor</source>
+         <target>Profesor</target>
+     </trans-unit>
+         <trans-unit id="10">
+         <source>Numero credito</source>
+         <target>Numero credito</target>
+     </trans-unit>
+         <trans-unit id="11">
+         <source>Fecha</source>
+         <target>Fecha</target>
+     </trans-unit>
+         <trans-unit id="12">
+         <source>Dia</source>
+         <target>Dia</target>
+     </trans-unit>
+         <trans-unit id="13">
+         <source>Hora inicio</source>
+         <target>Hora inicio</target>
+     </trans-unit>
+         <trans-unit id="14">
+         <source>Hora fim</source>
+         <target>Hora fim</target>
+     </trans-unit>
+         <trans-unit id="15">
+         <source>Especiais</source>
+         <target>Especiais</target>
+     </trans-unit>
+         <trans-unit id="16">
+         <source>Unesp unicamp</source>
+         <target>Unesp unicamp</target>
+     </trans-unit>
+         <trans-unit id="17">
+         <source>Regulares usp</source>
+         <target>Regulares usp</target>
+     </trans-unit>
+         <trans-unit id="18">
+         <source>Local curso</source>
+         <target>Local curso</target>
+     </trans-unit>
+         <trans-unit id="19">
+         <source>Status</source>
+         <target>Status</target>
+     </trans-unit>
+        </body>
+  </file>
+</xliff>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en_US" datatype="plaintext">
+    <body>
+      <trans-unit id="1">
+         <source>banner</source>
+         <target>banner</target>
+      </trans-unit>
+      <trans-unit id="2">
+         <source>Add new banner</source>
+         <target>Agregar banner</target>
+      </trans-unit>
+      <trans-unit id="3">
+         <source>Edit banner</source>
+         <target>Editar banner</target>
+      </trans-unit>
+      <trans-unit id="4">
+         <source>List banner</source>
+         <target>Listar banner</target>
+      </trans-unit>
+    <!-- Falta traducir -->  
+     <trans-unit id="5">
+         <source>Prefijo nome banner</source>
+         <target>Prefijo nome banner</target>
+     </trans-unit>
+         <trans-unit id="6">
+         <source>Status</source>
+         <target>Status</target>
+     </trans-unit>
+        </body>
+  </file>
+</xliff>
+

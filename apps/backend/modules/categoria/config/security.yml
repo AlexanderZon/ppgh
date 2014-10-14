@@ -1,0 +1,20 @@
+all:
+  is_secure: on
+
+index:
+  credentials: [categoria_view]
+
+new:
+  credentials: [categoria_view, categoria_insert]
+
+create:
+  credentials: [categoria_view, categoria_insert]
+
+edit:
+  credentials: [categoria_view, categoria_update]
+
+delete:
+  credentials: [categoria_view, categoria_delete]
+
+deleteAll:
+  credentials: [categoria_view, categoria_delete]

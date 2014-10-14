@@ -1,0 +1,36 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/13-View
+
+default:
+  http_metas:
+    content-type: text/html; charset=utf-8
+
+  metas:
+    title:        PPGH - PROGRAMA DE PÓS-GRADUAÇÃO EM GEOGRAFIA HUMANA/FFLCH/USP
+    description:  DEPARTAMENTO DE GEOGRAFIA - FACULDADE DE FILOSOFIA, LETRAS E CIÊNCIAS HUMANAS - UNIVERSIDADE DE SÃO PAULO
+    keywords:     Geografia Humana, USP, Programa, Pós-Graduação, PPGH
+    language:     en
+    robots:       index, follow
+
+  stylesheets:    
+    #- validationEngine.jquery.css
+    - style.css
+    - nivo-slider.css
+    - orbit.css
+    #- jq/jqueryslidemenu-frontend.css
+   # - cupertino/jquery-ui-1.8.1.custom.css
+
+  javascripts:    
+    - jquery-1.5.1.min.js
+    - jquery.min.js
+    - jquery.orbit.min.js
+    - jquery.nivo.slider.pack.js
+    - cufon-yui.js
+    - paginate.js
+    #- jq/jqueryslidemenu.js
+    #- jq/jquery-ui-1.8.1.custom.min.js
+    #- jq/jquery.validationEngine.js
+    #- jq/jquery.validationEngine-en_US.js
+
+  has_layout:     true
+  layout:         layout

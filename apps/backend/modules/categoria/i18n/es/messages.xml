@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en_US" datatype="plaintext">
+    <body>
+      <trans-unit id="1">
+         <source>categoria</source>
+         <target>categoria</target>
+      </trans-unit>
+      <trans-unit id="2">
+         <source>Add new categoria</source>
+         <target>Agregar categoria</target>
+      </trans-unit>
+      <trans-unit id="3">
+         <source>Edit categoria</source>
+         <target>Editar categoria</target>
+      </trans-unit>
+      <trans-unit id="4">
+         <source>List categoria</source>
+         <target>Listar categoria</target>
+      </trans-unit>
+    <!-- Falta traducir -->  
+     <trans-unit id="5">
+         <source>Nome categoria</source>
+         <target>Nome categoria</target>
+     </trans-unit>
+        </body>
+  </file>
+</xliff>
+

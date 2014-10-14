@@ -1,0 +1,20 @@
+all:
+  is_secure: on
+
+index:
+  credentials: [semestre_view]
+
+new:
+  credentials: [semestre_view, semestre_insert]
+
+create:
+  credentials: [semestre_view, semestre_insert]
+
+edit:
+  credentials: [semestre_view, semestre_update]
+
+delete:
+  credentials: [semestre_view, semestre_delete]
+
+deleteAll:
+  credentials: [semestre_view, semestre_delete]

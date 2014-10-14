@@ -1,0 +1,51 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+ajax:
+  url:   /ajax/:action
+  param: { module: ajax }
+
+permalink_detalhe:
+  url:   /:sf_culture/:secciones/:subseccion/:permalink/:detalhe/*
+  param: { module: sections, action: index }
+
+permalink:
+  url:   /:sf_culture/:secciones/:subseccion/:permalink/*
+  param: { module: sections, action: index }
+
+submenu:
+  url:   /:sf_culture/:secciones/:subseccion/*
+  param: { module: sections, action: index }
+
+menu:
+  url:   /:sf_culture/:secciones/*
+  param: { module: sections, action: index }
+
+pager:
+  url: /:sf_culture/:secciones/:subseccion/page/:page/*
+  param: { module: sections, action: index, page: 1, display: true}
+  requirements: { page: \d+ }
+  
+nucleo:
+  url:   /*
+  param: { module: sections, action: index }
+  
+# default rules
+homepage:
+  url:   /
+  param: { module: sections, action: index }
+
+localized_homepage:
+  url:   /:sf_culture/home
+  param: { module: sections, action: index }
+  requirements:
+    sf_culture: (?:pt)
+
+# generic rules
+# please, remove them by adding more specific rules
+default_index:
+  url:   /:sf_culture/:module
+  param: { action: index }
+
+default:
+  url:   /:sf_culture/:module/:action/*

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en_US" datatype="plaintext">
+    <body>
+      <trans-unit id="1">
+         <source>eventos</source>
+         <target>eventos</target>
+      </trans-unit>
+      <trans-unit id="2">
+         <source>Add new eventos</source>
+         <target>Agregar eventos</target>
+      </trans-unit>
+      <trans-unit id="3">
+         <source>Edit eventos</source>
+         <target>Editar eventos</target>
+      </trans-unit>
+      <trans-unit id="4">
+         <source>List eventos</source>
+         <target>Listar eventos</target>
+      </trans-unit>
+    <!-- Falta traducir -->  
+     <trans-unit id="5">
+         <source>Titulo</source>
+         <target>Titulo</target>
+     </trans-unit>
+         <trans-unit id="6">
+         <source>Resumen</source>
+         <target>Resumen</target>
+     </trans-unit>
+         <trans-unit id="7">
+         <source>Descripcion</source>
+         <target>Descripcion</target>
+     </trans-unit>
+         <trans-unit id="8">
+         <source>Fecha inicio</source>
+         <target>Fecha inicio</target>
+     </trans-unit>
+         <trans-unit id="9">
+         <source>Fecha fin</source>
+         <target>Fecha fin</target>
+     </trans-unit>
+         <trans-unit id="10">
+         <source>Imagen</source>
+         <target>Imagen</target>
+     </trans-unit>
+         <trans-unit id="11">
+         <source>Status</source>
+         <target>Status</target>
+     </trans-unit>
+         <trans-unit id="12">
+         <source>Permalink</source>
+         <target>Permalink</target>
+     </trans-unit>
+        </body>
+  </file>
+</xliff>
+

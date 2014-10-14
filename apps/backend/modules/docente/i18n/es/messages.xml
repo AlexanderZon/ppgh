@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en_US" datatype="plaintext">
+    <body>
+      <trans-unit id="1">
+         <source>docente</source>
+         <target>docente</target>
+      </trans-unit>
+      <trans-unit id="2">
+         <source>Add new docente</source>
+         <target>Agregar docente</target>
+      </trans-unit>
+      <trans-unit id="3">
+         <source>Edit docente</source>
+         <target>Editar docente</target>
+      </trans-unit>
+      <trans-unit id="4">
+         <source>List docente</source>
+         <target>Listar docente</target>
+      </trans-unit>
+    <!-- Falta traducir -->  
+     <trans-unit id="5">
+         <source>Nome docente</source>
+         <target>Nome docente</target>
+     </trans-unit>
+         <trans-unit id="6">
+         <source>Ramal</source>
+         <target>Ramal</target>
+     </trans-unit>
+         <trans-unit id="7">
+         <source>Sala</source>
+         <target>Sala</target>
+     </trans-unit>
+         <trans-unit id="8">
+         <source>Email</source>
+         <target>Email</target>
+     </trans-unit>
+         <trans-unit id="9">
+         <source>Site</source>
+         <target>Site</target>
+     </trans-unit>
+         <trans-unit id="10">
+         <source>Curriculo</source>
+         <target>Curriculo</target>
+     </trans-unit>
+        </body>
+  </file>
+</xliff>
+

@@ -1,0 +1,20 @@
+all:
+  is_secure: on
+
+index:
+  credentials: [docente_view]
+
+new:
+  credentials: [docente_view, docente_insert]
+
+create:
+  credentials: [docente_view, docente_insert]
+
+edit:
+  credentials: [docente_view, docente_update]
+
+delete:
+  credentials: [docente_view, docente_delete]
+
+deleteAll:
+  credentials: [docente_view, docente_delete]

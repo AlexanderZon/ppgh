@@ -1,0 +1,20 @@
+all:
+  is_secure: on
+
+index:
+  credentials: [eventos_view]
+
+new:
+  credentials: [eventos_view, eventos_insert]
+
+create:
+  credentials: [eventos_view, eventos_insert]
+
+edit:
+  credentials: [eventos_view, eventos_update]
+
+delete:
+  credentials: [eventos_view, eventos_delete]
+
+deleteAll:
+  credentials: [eventos_view, eventos_delete]

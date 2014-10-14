@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en_US" datatype="plaintext">
+    <body>
+      <trans-unit id="1">
+         <source>semestre</source>
+         <target>semestre</target>
+      </trans-unit>
+      <trans-unit id="2">
+         <source>Add new semestre</source>
+         <target>Agregar semestre</target>
+      </trans-unit>
+      <trans-unit id="3">
+         <source>Edit semestre</source>
+         <target>Editar semestre</target>
+      </trans-unit>
+      <trans-unit id="4">
+         <source>List semestre</source>
+         <target>Listar semestre</target>
+      </trans-unit>
+    <!-- Falta traducir -->  
+     <trans-unit id="5">
+         <source>Semestre</source>
+         <target>Semestre</target>
+     </trans-unit>
+         <trans-unit id="6">
+         <source>Ano</source>
+         <target>Ano</target>
+     </trans-unit>
+        </body>
+  </file>
+</xliff>
+
